@@ -22,8 +22,5 @@ Burger changes color while being cooked
 Inspector turns blue when running out of patience so that the player can identify an inspector
 
 # Student Info
-Please fill out the information below for each member of the team:
-
-### [ David Baez Bravo : david.baez3@upr.edu ]
 
 ### [ Yadriel Calderon Montalvo : yadriel.calderon@upr.edu ]
